@@ -1,3 +1,5 @@
+/*
+
 class Solution {
   public:
     int getSecondLargest(vector<int> &arr) {
@@ -18,3 +20,5 @@ class Solution {
         return slarge;
     }
 };
+
+*/
